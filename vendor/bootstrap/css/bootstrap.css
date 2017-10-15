@@ -635,17 +635,17 @@ pre code {
   margin-right: auto;
   margin-left: auto;
   padding-right: 15px;
-  padding-left: 15px;
+  /*padding-left: 15px;*/
   width: 100%;
 }
 
 .row {
+  bottom: -13px;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: 0px;
+  position: relative;
 }
 
 .no-gutters {
