@@ -1,5 +1,6 @@
 # C&C Restauração e Reformas
-Site contruido para divulgar serviços diversos como polimento de pedras, marcenaria, pintura etc.
+Site construido para divulgar serviços diversos como polimento de pedras, marcenaria, pintura etc.
+
 
 <!-- # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
